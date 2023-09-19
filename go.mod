@@ -4,6 +4,7 @@ go 1.20
 
 require (
 	github.com/FZambia/sentinel v1.1.1
+	github.com/FZambia/sentinel/v2 v2.0.1
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/docker/docker v24.0.5+incompatible
 	github.com/docker/go-connections v0.4.0
